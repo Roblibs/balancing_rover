@@ -4,7 +4,7 @@ The robot structure is a double sided inverted pendulum, with the ability to sta
 
 # Concept
 
-<img src="images/concept.png" width="400">
+<img src="images/concept.png" width="800">
 
 * A gazebo simulation approximates the robot's physics and allows the user to control it with a joystick to have a feeling of the robot's power depending on the weight and motors power.
 * nRF52840 Allows high throughput log with native usb uspport.
@@ -25,7 +25,7 @@ The robot structure is a double sided inverted pendulum, with the ability to sta
 
 Gray boxes are git repositories / submodules with html links
 
-<img src="design/repo_structure.svg" width="400">
+<img src="design/repo_structure.svg" width="800">
 
 
 
