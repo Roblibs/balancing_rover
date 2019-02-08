@@ -20,3 +20,12 @@ The robot structure is a double sided inverted pendulum, with the ability to sta
 * The robot shall be able to go from flat mode to standing mode.
 * The robot shall be able to keep balance and move in standing mode.
 * All articulations shall be reversible, to allow force control loop (smooth interactive reaction).
+
+# Repository structure
+
+Gray boxes are git repositories / submodules with html links
+
+<img src="design/repo_structure.svg" width="400">
+
+
+

@@ -1,0 +1,9 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/Roblibs/rover_firmware.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Roblibs/rover_server.git
+[submodule "simulation"]
+	path = simulation
+	url = https://github.com/Roblibs/gzrover.git
